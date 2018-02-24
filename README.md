@@ -6,6 +6,6 @@ My first repository on GitHub.
 
 * Learn GitHub best practices.
 * Commit hello world code for:
-** C++
-** Python
-** Perl
+    * C++
+    * Python
+    * Perl
